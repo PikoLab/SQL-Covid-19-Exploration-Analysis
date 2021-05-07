@@ -1,6 +1,6 @@
 # Covid-19 Exploration Analysis by SQL
 
-### rogramming Tool：Postgre SQL
+### Programming Tool：Postgre SQL
 
 ### Skills Used 
 1. Joins
