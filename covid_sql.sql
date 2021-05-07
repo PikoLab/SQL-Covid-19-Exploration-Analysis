@@ -118,7 +118,7 @@ INSERT INTO VaccinationTable(
 	WHERE C.continent IS NOT NULL
 );
 
-
+-- export table to CSV file
 COPY VaccinationTable TO 'C:\temp\vaccinationtable.csv' DELIMITER ',' CSV HEADER;
 
 
